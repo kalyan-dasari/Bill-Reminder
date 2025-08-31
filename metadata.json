@@ -1,0 +1,5 @@
+{
+  "name": "Personal Bill & Reminder Dashboard",
+  "description": "An application to track personal bills, recharges, EMIs, and events. It provides reminders for upcoming due dates, a history of paid bills, and a monthly financial summary.",
+  "requestFramePermissions": []
+}
